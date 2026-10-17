@@ -1,4 +1,4 @@
-> 이 방법서에서 말하는 `tools/` 스크립트(참고 구현)는 NWN:EE 한글패치 저장소에 있습니다: https://github.com/iamtalker/nwn1ee-korean-unified (릴리스 `pipeline-v1` 에도 첨부).
+> 이 방법서에서 말하는 `tools/` 스크립트(참고 구현)는 NWN:EE 한글패치 저장소의 `tools/` 폴더에 있습니다: https://github.com/iamtalker/nwn1ee-korean-unified
 
 # 게임 번역 파이프라인 (다른 게임·다른 AI 에 적용하기 위한 방법서)
 
